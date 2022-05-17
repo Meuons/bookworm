@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bookwrom/static/css/main.007f57ed.css",
+    "main.js": "/bookwrom/static/js/main.c6788382.js",
+    "static/js/787.b95d21ec.chunk.js": "/bookwrom/static/js/787.b95d21ec.chunk.js",
+    "index.html": "/bookwrom/index.html",
+    "main.007f57ed.css.map": "/bookwrom/static/css/main.007f57ed.css.map",
+    "main.c6788382.js.map": "/bookwrom/static/js/main.c6788382.js.map",
+    "787.b95d21ec.chunk.js.map": "/bookwrom/static/js/787.b95d21ec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.007f57ed.css",
+    "static/js/main.c6788382.js"
+  ]
+}

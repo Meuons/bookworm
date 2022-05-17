@@ -293,7 +293,7 @@ PayPalCheckout(){
           "merchant_urls": {
             "terms": "https://www.example.com/terms.html",
             "checkout": "https://www.example.com/checkout.html?order_id={checkout.order.id}",
-            "confirmation": "http://meuons.github.io/bookworm/?order_id={checkout.order.id}",
+            "confirmation": "https://meuons.github.io/bookworm/?order_id={checkout.order.id}",
             "push": "https://www.example.com/api/push?order_id={checkout.order.id}"
           }
         }`
